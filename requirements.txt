@@ -1,0 +1,1 @@
+Flask==2.2.2\nGunicorn==20.1.0\nrequests==2.26.0
