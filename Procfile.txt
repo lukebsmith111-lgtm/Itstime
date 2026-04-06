@@ -1,1 +1,1 @@
-web: gunicorn itstime:appweb: gunicorn itstime:app
+web: gunicorn itstime:app
